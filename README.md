@@ -28,7 +28,7 @@ Click "Open" when VS Code asks if you would like to open the cloned repository.
 9. To launch index.html in the browser, select "Run" on the menu and then "Run without debugging" 
 	![image](images/image_4.png)
 
-10. Select the browser you wish to launch index.html in
+10. Select the browser in which you wish to launch index.html
 
 11. The browser should open with index.html running
 	![image](images/image_5.png)
