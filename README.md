@@ -28,3 +28,10 @@ Click "Open" when VS Code asks if you would like to open the cloned repository.
 
 11. The browser should open with index.html running (see image_5)
 
+
+REFERENCES:
+
+https://code.visualstudio.com/docs/editor/github
+
+https://git-scm.com/download
+
