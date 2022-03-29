@@ -12,7 +12,8 @@
 
 4. paste the Github URL for the hello-world js project
 	git@github.com:madmarcos-codeup/hello-world-js.git
-
+	![image](images/image_6.png)
+	
 5. click "Clone". After clicking the Clone button, you may have to allow Visual Studio code access to your Github account. A web page will load asking you to authorize VS Code. Click "Authorize".
 
 6. VS Code will ask you where you want to download the project to your computer. For now, create a folder on your Desktop called "code" and clone the project inside the code folder 
